@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Baconeil",
+    "username": "almashoorbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "XPvPSMP.aternos.me",
+    "ip": "XPvPSMP.aternos.me:52860",
     "port": 52860,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -25,16 +25,6 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-    },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "Hey I am 24/7 online everytime",
-        "I am a bot",
-        "I am a bot"
-      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
