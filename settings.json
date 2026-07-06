@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "XPvPSMP.aternos.me:52860",
+    "ip": "XPvPSMP.aternos.me",
     "port": 52860,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
